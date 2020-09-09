@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PantallaLogin</string>
+    <string name="title">GymX</string>
+    <string name="email">Correo</string>
+    <string name="pass">Contraseña</string>
+    <string name="directions">Inicia sesión para ver todas nuestras clases</string>
+    <string name="registro">Registrarse</string>
+
+
+    <!-- Nombre de App -->
+    <string name="nombreApp">GymX</string>
+
+    <!-- Labels de input -->
+    <string name="lblCorreo">Correo</string>
+
+    <string name="lblContrasena">Contraseña</string>
+    <string name="foto_de_chava_con_pesa">Foto de Chava con Pesa</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+</resources>
